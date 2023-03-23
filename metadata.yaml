@@ -1,0 +1,36 @@
+_repo: Torwood-s-trust-Vol-3-of-3-b-A-novel_70307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Everett-Green, Evelyn
+    aliases:
+    - Adair, Cecil
+    - Dare, Evelyn
+    - Ward, E.
+    - Everett-Green, E. (Evelyn)
+    birthdate: 1856
+    deathdate: 1932
+    gutenberg_agent_id: '4888'
+    url: http://www.gutenberg.org/2009/agents/4888
+    wikipedia: https://en.wikipedia.org/wiki/Evelyn_Everett-Green
+description: ''
+gutenberg_issued: '2023-03-17'
+identifiers:
+  gutenberg: '70307'
+language: en
+pgterms:marc904: https://archive.org/details/torwoodstrustnov01ever https://archive.org/details/torwoodstrustnov02ever
+  https://archive.org/details/torwoodstrustnov03ever
+pgterms:marc905: 20200611223432everettgre
+pgterms:marc906: '1884'
+pgterms:marc907: GB
+production_note: MWS, Les Galloway and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited Kingdom :$bRichard Bentley and Son, $c1884.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Torwood''s trust (Vol. 3 of 3) : $b A novel'
+url: http://www.gutenberg.org/ebooks/70307
