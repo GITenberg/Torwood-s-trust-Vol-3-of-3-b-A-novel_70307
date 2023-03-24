@@ -1,5 +1,8 @@
 _repo: Torwood-s-trust-Vol-3-of-3-b-A-novel_70307
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70307-h/images/i_cover.jpg
 creator:
   author:
     agent_name: Everett-Green, Evelyn
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4888
     wikipedia: https://en.wikipedia.org/wiki/Evelyn_Everett-Green
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70307#Torwood-s-trust-Vol-3-of-3-b-A-novel
 gutenberg_issued: '2023-03-17'
 identifiers:
   gutenberg: '70307'
